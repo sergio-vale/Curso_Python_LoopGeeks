@@ -1,0 +1,18 @@
+git init
+
+git add .
+
+git commit -m 'primer commit'
+
+git remote...... (aquí copia el código que te da github)
+
+git push -u origin master
+
+*Si te pide que ingreses tu username y tu correo lo ingresas de la siguiente manera:
+
+git config --global user.name "John Doe"
+
+git config --global user.email johndoe@example.com
+
+**Recuerda reemplazar dentro de las comillas tu nombre de usuario en GitHub y en el email el correo de 
+tu cuenta GitHub
